@@ -1,4 +1,4 @@
-# University Project for the NLP and Information Extraction elective courses in FMI, 1st Semester 2021/2022
+# University Project for the NLP and Information Extraction elective courses in FMI (Sofia University), 1st Semester 2021/2022
 
 Text Summarization with TextRank (via PyTextRank) and LSA (via sumy).
 
